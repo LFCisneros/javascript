@@ -1,5 +1,13 @@
 # Change Log
 
+## 4.54.2
+
+### Patch Changes
+
+- Chore: improve checkout error handling ([#5654](https://github.com/clerk/javascript/pull/5654)) by [@aeliox](https://github.com/aeliox)
+
+- Chore: display correct total for checkout complete page ([#5650](https://github.com/clerk/javascript/pull/5650)) by [@aeliox](https://github.com/aeliox)
+
 ## 4.54.1
 
 ### Patch Changes
